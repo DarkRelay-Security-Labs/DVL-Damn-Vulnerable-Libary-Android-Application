@@ -1,7 +1,6 @@
 # DVL-Damn-Vulnerable-Library-Android-Application
 Damn Vulnerable Library is an intentionally made vulnerable Android application. 
 
-# Functionalities Implemented
 The application connects to the application and database server hosted on the cloud through a VPN and provides library services for registered users. Users can register, create accounts, add books to a cart, and purchase the books using a credit card.
 
 # Usage
