@@ -1,4 +1,4 @@
-# DVL-Damn-Vulnerable-Libary-Android-Application
+# DVL-Damn-Vulnerable-Library-Android-Application
 Damn Vulnerable Library is designed to be an intentionally vulnerable Android application. 
 
 # Functionalities Implemented
@@ -9,6 +9,6 @@ Download the Library.apk file.
 
 Install the damn vulnerable library application on an emulator or Android device.
 
-Connect to DarkRelay VPN (email training@darkrelay.com to request for a VPN file(Pricing:$5 or 500 INR per month))
+Connect to DarkRelay VPN (email training@darkrelay.com to request for a VPN file(Pricing:$5 or 500 INR per month)).
 
-Start penetration testing the Damn Vulnerable Libary application.
+Start penetration testing the damn vulnerable library application.
