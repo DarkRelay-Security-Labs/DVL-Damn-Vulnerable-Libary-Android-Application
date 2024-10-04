@@ -44,3 +44,9 @@ Improper URL Validation
 Hardcoded Secrets
 
 Insecure Logging
+
+## Follow Us For More:
+[DarkRelay](https://www.darkrelay.com/blog)<br>
+[LinkedIn](https://linkedin.com/company/darkrelay)<br>
+[Twitter](https://twitter.com/darkrelaylabs)<br>
+[YouTube](https://www.youtube.com/channel/UCtnLa860lUkRhtmpYvbXlTw)<br>
