@@ -2,7 +2,7 @@
 Damn Vulnerable Library is designed to be an intentionally vulnerable Android application. 
 
 # Functionalities Implemented
-The application connects to the application and database server hosted on the cloud to provide library services for the registered users. Users can register, create accounts, and purchase the books through online payment using a credit card.
+The application connects to the application and database server hosted on the cloud through a VPN to provide library services for the registered users. Users can register, create accounts, and purchase the books through online payment using a credit card.
 
 # Usage
 Download the Library.apk file.
