@@ -38,6 +38,9 @@ Insecure Intent
 Unprotected Exported Activity
 
 Intent hijacking vulnerability
+
 Improper URL Validation
+
 Hardcoded Secrets
+
 Insecure Logging
