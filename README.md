@@ -45,7 +45,7 @@ Hardcoded Secrets
 
 Insecure Logging
 
-## Follow Us For More:
+## Follow Us For More
 [DarkRelay](https://www.darkrelay.com/blog)<br>
 [LinkedIn](https://linkedin.com/company/darkrelay)<br>
 [Twitter](https://twitter.com/darkrelaylabs)<br>
